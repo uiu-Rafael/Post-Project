@@ -1,5 +1,3 @@
-import { useState } from 'react';
-
 import PostList from '../components/PostList';
 import { Outlet } from 'react-router-dom';
 
